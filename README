@@ -1,1 +1,12 @@
 
+This repository contains the official supporting data and related resources for the systematic review paper **"Node Importance Evaluation in Complex Networks Based on Graph Neural Networks: A Systematic Review" [1]**.
+
+It primarily collects and organizes the topological statistical features of various real-world complex networks and Graph Neural Network (GNN) evaluation datasets discussed in the review. The goal is to provide a convenient and centralized data reference for researchers working on node importance evaluation, dynamic graph analysis, and heterogeneous graph modeling.
+
+Some other databases [2-5].
+
+[1] Kangzheng Huang, Ye Chang, Weibo Li, et al. Node Importance Evaluation in Complex Networks Based on Graph Neural Networks: A Systematic Review.
+[2] https://public.websites.umich.edu/~mejn/netdata/
+[3] https://snap.stanford.edu/data/
+[4] http://konect.cc/networks/
+[5] https://ogb.stanford.edu/docs/dataset_overview/
